@@ -1,0 +1,19 @@
+body{
+    background-color: dimgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chartreuse;
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+
+}
+a:hover{
+    cursor: pointer;
+    color: aqua;
+    font-size: 1.1rem;
+    transition: 0.6s;
+  
+    
+}
+
